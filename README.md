@@ -1,4 +1,4 @@
-# Lasya: Clinic Appointment Scheduler
+#: Clinic Appointment Scheduler
 
 Spring Cloud microservices demo for patient management, appointment scheduling, and reminder notifications.
 
